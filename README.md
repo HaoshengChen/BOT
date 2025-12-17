@@ -2,12 +2,21 @@
 
 Visual Evidence for BIO-INSPIRED VISUAL TRACKING USING ASYNCHRONOUS EVENT CAMERAS
 
-![image](https://github.com/HaoshengChen/Bio-Inspired-Visual-Tracking/blob/main/Pics/1.png)
+<div align="center">
+  <img src="Pics/1.png" width="80%" />
+</div>
 
 Solid Evidence:
 
-![image](https://github.com/HaoshengChen/Bio-Inspired-Visual-Tracking/blob/main/Pics/2.gif)
+<div align="center">
+  <img src="Pics/2.gif" width="45%" />
+  <img src="Pics/3.gif" width="45%" />
+</div>
 
+<div align="center">
+  <img src="Pics/4.gif" width="45%" />
+  <img src="Pics/5.gif" width="45%" />
+</div>
 
 ## License
 
