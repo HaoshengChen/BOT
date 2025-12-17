@@ -13,10 +13,14 @@ Solid Evidence:
   <img src="Pics/3.gif" width="45%" />
 </div>
 
+Solid Evidence:
+
 <div align="center">
   <img src="Pics/4.gif" width="45%" />
-  <img src="Pics/5.gif" width="45%" />
+  <img src="Pics/5.gif" width="36%" />
 </div>
+
+Solid Evidence:
 
 ## License
 
