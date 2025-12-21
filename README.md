@@ -61,7 +61,7 @@ The Tracking Trajectories of Our Bio-inspired Event-based Visual Tracking:
   <img src="Pics/17.gif" width="45%" />
 </div>
 
-The object and camera motions are denoted in green and red lines, respectively, to show the effectiveness of our bio-inspired visual tracking in fast motion and HDR scenarios. Please note that all the results are played at much slower speeds for visualization.
+The object and camera motions are denoted in green and red lines, respectively, to show the effectiveness of our bio-inspired visual tracking in fast motion and HDR scenarios. Please note that all the results are played at much slower speeds for visualization. In addition, from the above attention heat maps and the retinal events, we can see solid evidence that both human and event cameras have a similar visual paradigm to sense the world, which is triggered by motions. As a result, event-based visual tracking is a promising way to achieve bio-inspired tracking.
 
 &nbsp;&nbsp;
 
