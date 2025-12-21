@@ -20,11 +20,11 @@ The Representative Heat Maps of Human Visual Attention:
   <img src="Pics/5.gif" width="36%" />
 </div>
 
-The heat maps are obtained by an eye tracker on the four test video sequences of the MOT20 dataset. From top to bottom, the corresponding video sequences are MOT20-04, MOT20-06, MOT20-07, and MOT20-08. In the heat maps, the attention is decayed with a short decay time to highlight the current concerned areas. The corresponding colors are decayed from red to blue according to the rainbow color scheme, and no color indicates no attention. The heat maps represent the historical attention over the short decay time.
+The heat maps are obtained by an eye tracker on four test video sequences of the MOT20 dataset. In the heat maps, the attention is decayed with a short decay time to highlight the current concerned areas. The corresponding colors are decayed from red to blue according to the rainbow color scheme, and no color indicates no attention. The heat maps represent the historical attention over the short decay time.
 
 &nbsp;&nbsp;
 
-The Region of Interest (ROI) of Human Visual Attention:
+The Region of Interest (ROI) of Human Visual Tracking:
 
 <div align="center">
   <img src="Pics/6.gif" width="30%" />
@@ -42,9 +42,11 @@ The Region of Interest (ROI) of Human Visual Attention:
 
 The ROIs, highlighted by red circles, are obtained by an eye tracker on the GOT-10K dataset.
 
+Based on the above vivid illustration and solid evidence, as described in Sec. 2, when human beings track an interested target object, they generally try to gradually regress the minimum object bounding box by which tightly encloses the target region. During the coarse-to-fine bounding box regression, three key geometric factors, i.e., overlapped area, central point distance, and aspect ratio, are emphasized for evaluating the quality of the bounding box regression. Therefore, instead of the widely used ℓn-norm loss in conventional object tracking and detection methods, we introduce a composite loss function to guide the training of the proposed bio-inspired deep tracking network.
+
 &nbsp;&nbsp;
 
-Solid Visual Evidence:
+The Tracking Trajectories of Our Bio-inspired Event-based Visual Tracking:
 
 <div align="center">
   <img src="Pics/12.gif" width="45%" />
@@ -59,9 +61,11 @@ Solid Visual Evidence:
   <img src="Pics/17.gif" width="45%" />
 </div>
 
+The object and camera motions are denoted in green and red lines, respectively, to show the effectiveness of our bio-inspired visual tracking in fast motion and HDR scenarios. Please note that all the results are played at much slower speeds for visualization.
+
 &nbsp;&nbsp;
 
-The Representative Tracking Results of Our BOT and GT, highlighted by Blue and Red:
+The Representative Tracking Results:
 
 <div align="center">
   <img src="Pics/18.gif" width="45%" />
@@ -75,6 +79,8 @@ The Representative Tracking Results of Our BOT and GT, highlighted by Blue and R
   <img src="Pics/22.gif" width="45%" />
   <img src="Pics/23.gif" width="45%" />
 </div>
+
+The tracking results of our BOT and the GT are highlighted by blue and red bounding boxes, respectively. Please note that all the results are played at much slower speeds for visualization.
 
 &nbsp;&nbsp;
 
