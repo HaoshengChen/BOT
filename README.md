@@ -92,6 +92,8 @@ The Qualitative Tracking Results of Our BOT and Competitors:
 
 &nbsp;&nbsp;
 
+Our code will be open-sourced for public use in this repo.
+
 ## License
 
 This repository is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0).
