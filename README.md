@@ -84,7 +84,7 @@ The tracking results of our BOT and the GT are highlighted by blue and red bound
 
 &nbsp;&nbsp;
 
-The Qualitative Tracking Results of Our BOT and Competitors:
+Representative Tracking Results of Our BOT and Competitors:
 
 <div align="center">
   <img src="Pics/24.png" width="80%" />
